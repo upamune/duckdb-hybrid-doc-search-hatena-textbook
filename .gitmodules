@@ -1,0 +1,3 @@
+[submodule "docs/Hatena-Textbook"]
+	path = docs/Hatena-Textbook
+	url = https://github.com/hatena/Hatena-Textbook
